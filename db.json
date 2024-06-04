@@ -67,61 +67,7 @@
         "code": 200,
         "message": "Success create contribution"
     },
-    "dashboard_contribution_pending": {
-        "success": true,
-        "code": 200,
-        "data": [
-            {
-                "id": "6502a84af7de926a8b1f1d48",
-                "title": "saya mau tanya",
-                "content": "Saya mau tanya",
-                "url_publish": "https://www.beautynesia.id/life/museum-nasional-indonesia-kebakaran-intip-5-koleksi-yang-mencuri-perhatian/b-279998",
-                "program": "cerita-yuk",
-                "sub_program": "noutri_wear",
-                "author_expert": {
-                    "id": 3598655,
-                    "first_name": "Dr. Sakabatou",
-                    "last_name": "Uwu",
-                    "profession": "Spesialis Kulit dan Kelamin",
-                    "photo": "https://images.detik.com/community/media/detikconnectdevel/2015/5/20/2913c80fdbde7f42910f7f0163640b27.png"
-                }
-            }
-        ],
-        "meta": {
-            "limit": 10,
-            "page": 1,
-            "total_pages": 1,
-            "total_record": 2
-        }
-    },
-    "dashboard_contribution_published": {
-        "success": true,
-        "code": 200,
-        "data": [
-            {
-                "id": "6502a84af7de926a8b1f1d48",
-                "title": "saya mau tanya",
-                "content": "Saya mau tanya",
-                "url_publish": "https://www.beautynesia.id/life/museum-nasional-indonesia-kebakaran-intip-5-koleksi-yang-mencuri-perhatian/b-279998",
-                "program": "cerita-yuk",
-                "sub_program": "noutri_wear",
-                "author_expert": {
-                    "id": 3598655,
-                    "first_name": "Dr. Sakabatou",
-                    "last_name": "Uwu",
-                    "profession": "Spesialis Kulit dan Kelamin",
-                    "photo": "https://images.detik.com/community/media/detikconnectdevel/2015/5/20/2913c80fdbde7f42910f7f0163640b27.png"
-                }
-            }
-        ],
-        "meta": {
-            "limit": 10,
-            "page": 1,
-            "total_pages": 1,
-            "total_record": 2
-        }
-    },
-    "dashboard_contribution_declined": {
+    "dashboard_contribution": {
         "success": true,
         "code": 200,
         "data": [
